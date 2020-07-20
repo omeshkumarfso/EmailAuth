@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297789645181",
+    "firebase_url": "https://authemail-2574d.firebaseio.com",
+    "project_id": "authemail-2574d",
+    "storage_bucket": "authemail-2574d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297789645181:android:0b57b1323c546801192c14",
+        "android_client_info": {
+          "package_name": "com.emailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297789645181-kdufp65a6e7dkehffbisbtr7qih2rct7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMSFCOSv-a7lSBfVh_Qn4jCIai1xopSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297789645181-kdufp65a6e7dkehffbisbtr7qih2rct7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
