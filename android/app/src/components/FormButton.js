@@ -1,6 +1,5 @@
 import React from 'react';
 import { StyleSheet, TouchableOpacity, Text, Dimensions } from 'react-native';
-import {windowHeight, windowWidth} from '../utils/Dimensions';
 
 export default function FormButton({ buttonTitle, ...rest }) {
     return (
