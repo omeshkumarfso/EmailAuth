@@ -5,6 +5,7 @@ import FormInput from '../components/FormInput';
 import { AuthContext } from '../navigation/AuthProvider';
 
 export default function LoginScreen ({ navigation }) {
+    
     const [email, setEmail] = useState('');
     const [password, setPassword ] = useState('');
 

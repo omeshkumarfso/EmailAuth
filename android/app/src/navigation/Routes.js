@@ -26,7 +26,7 @@ export default function Routes() {
     if (loading) {
         return <Loading />;
     }
-
+    
     return(
         <NavigationContainer>
             {user ?<HomeStack /> : <AuthStack /> }
